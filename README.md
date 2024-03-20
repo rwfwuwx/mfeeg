@@ -2,7 +2,7 @@
 ![mfeeg](https://github.com/rwfwuwx/mfeeg/assets/60617251/ad02bfad-b25a-4725-b500-989585f36600)
 
 ## History 
-Since 2013-06-08, mfeeg has been on https://sourceforge.net/projects/mfeeg/. A brief description of mfeeg there （I would like to leave it right as it was there）is as below:
+Since 2013-06-08, mfeeg has been on https://sourceforge.net/projects/mfeeg/. A brief description of mfeeg there （I would like to copy it right as it was）is as below:
 
 "
 
