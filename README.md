@@ -54,4 +54,5 @@ X. Wu, X. Chen, Z. Li, S. Han, D. Zhang, Binding of verbal and spatial informati
 Updates of mfeeg are now maintained here. (The sourceforge site version is obsolete).
 
 The biggest change, in terms of both development and usage, is that mfeeg now serves as a base library for 11buddy-&-I (https://github.com/rwfwuwx/11buddy-and-I). 
-In other words, while mfeeg still can run independently, the recommandation is to use mfeeg as an integrated part of 11buddy-&-I, particularly Andy.
+
+In other words, while mfeeg still can run independently, the recommandation is to use mfeeg as an integrated part of 11buddy-&-I, particularly Andy; for end-to-end, and, no-coding EEG anaysis experience.
